@@ -1,1 +1,0 @@
-# CS325_Sooyeon-Yoo_A_NumPy
